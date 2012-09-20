@@ -1,12 +1,12 @@
 /*
- *  Project: facebookID
+ *  Project: jquery.facebookID
  *  Description: Get basic info from an user without Apikey or App
  *  Author: @ivanfc0o
  */
 
 ;(function ( $, window, undefined ) {
     
-// Create the defaults once
+// Plugin name
 var pluginName = 'facebookID';
 
     // plugin __constructor
