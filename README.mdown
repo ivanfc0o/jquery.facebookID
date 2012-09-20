@@ -1,0 +1,13 @@
+# Facebook ID Jquery Plugin
+
+Plugin Jquery para obtener la información básica de una cuenta de Facebook con solo pasar el email.
+
+
+
+
+
+
+
+
+
+..Trabajando en la documentación.
